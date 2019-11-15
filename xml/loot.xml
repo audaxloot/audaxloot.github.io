@@ -1,5 +1,59 @@
 <loothistory>
     <lootentry>
+        <player>Keybind</player>
+        <itemname>Cloak of the Shrouded Mists</itemname>
+        <itemnumber>17102</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1573787148</timestamp>
+        <cost>90</cost>
+    </lootentry>
+    <lootentry>
+        <player>Uglypete</player>
+        <itemname>Crown of Destruction</itemname>
+        <itemnumber>18817</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1573787037</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Gus</player>
+        <itemname>Nightslayer Belt</itemname>
+        <itemnumber>16827</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1573785632</timestamp>
+        <cost>42</cost>
+    </lootentry>
+    <lootentry>
+        <player>Schadow</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573782556</timestamp>
+        <cost>95</cost>
+    </lootentry>
+    <lootentry>
+        <player>Elanta</player>
+        <itemname>Nemesis Skullcap</itemname>
+        <itemnumber>16929</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573782471</timestamp>
+        <cost>84</cost>
+    </lootentry>
+    <lootentry>
+        <player>Winemonkey</player>
+        <itemname>Vis'kag the Bloodletter</itemname>
+        <itemnumber>17075</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1573782274</timestamp>
+        <cost>70</cost>
+    </lootentry>
+    <lootentry>
         <player>Ultranumb</player>
         <itemname>Fireproof Cloak</itemname>
         <itemnumber>18811</itemnumber>
