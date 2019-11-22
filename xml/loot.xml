@@ -1,5 +1,23 @@
 <loothistory>
     <lootentry>
+        <player>Tot</player>
+        <itemname>Nemesis Skullcap</itemname>
+        <itemnumber>16929</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1574385089</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Lousassle</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1574385038</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
         <player>Drude</player>
         <itemname>Stormrage Legguards</itemname>
         <itemnumber>16901</itemnumber>
