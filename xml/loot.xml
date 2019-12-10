@@ -6,7 +6,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1575431186</timestamp>
-        <cost>136</cost>
+        <cost>-136</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -15,7 +15,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1575431122</timestamp>
-        <cost>52</cost>
+        <cost>-52</cost>
     </lootentry>
     <lootentry>
         <player>Captnstabbin</player>
@@ -24,7 +24,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1575431051</timestamp>
-        <cost>100</cost>
+        <cost>-100</cost>
     </lootentry>
     <lootentry>
         <player>Tyrela</player>
@@ -33,7 +33,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1575430975</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Airaser</player>
@@ -42,7 +42,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1575430042</timestamp>
-        <cost>42</cost>
+        <cost>-42</cost>
     </lootentry>
     <lootentry>
         <player>Julesonwar</player>
@@ -51,7 +51,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1575429970</timestamp>
-        <cost>20</cost>
+        <cost>-20</cost>
     </lootentry>
     <lootentry>
         <player>Drlol</player>
@@ -60,7 +60,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1575429864</timestamp>
-        <cost>242</cost>
+        <cost>-242</cost>
     </lootentry>
     <lootentry>
         <player>Fauxmage</player>
@@ -69,7 +69,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1575429341</timestamp>
-        <cost>215</cost>
+        <cost>-215</cost>
     </lootentry>
     <lootentry>
         <player>Lousassle</player>
@@ -78,7 +78,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1575428381</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Zerazi</player>
@@ -87,7 +87,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1575428310</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Uglypete</player>
@@ -96,7 +96,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1575426902</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Charlie</player>
@@ -105,7 +105,7 @@
         <zone>Molten Core</zone>
         <boss>Baron Geddon</boss>
         <timestamp>1575426016</timestamp>
-        <cost>101</cost>
+        <cost>-101</cost>
     </lootentry>
     <lootentry>
         <player>Drlol</player>
@@ -114,7 +114,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1575423689</timestamp>
-        <cost>41</cost>
+        <cost>-41</cost>
     </lootentry>
     <lootentry>
         <player>Existence</player>
@@ -123,7 +123,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1575423618</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Schadow</player>
@@ -132,7 +132,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1575422903</timestamp>
-        <cost>30</cost>
+        <cost>-30</cost>
     </lootentry>
     <lootentry>
         <player>Valuuan</player>
@@ -141,7 +141,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1575422797</timestamp>
-        <cost>75</cost>
+        <cost>-75</cost>
     </lootentry>
     <lootentry>
         <player>Existence</player>
@@ -150,7 +150,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1575422420</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Vaalul</player>
@@ -159,7 +159,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574827407</timestamp>
-        <cost>79</cost>
+        <cost>-79</cost>
     </lootentry>
     <lootentry>
         <player>Lousassle</player>
@@ -168,7 +168,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574827182</timestamp>
-        <cost>75</cost>
+        <cost>-75</cost>
     </lootentry>
     <lootentry>
         <player>Gus</player>
@@ -177,7 +177,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1574825928</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Pleasantree</player>
@@ -186,7 +186,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1574825886</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -195,7 +195,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1574825847</timestamp>
-        <cost>30</cost>
+        <cost>-30</cost>
     </lootentry>
     <lootentry>
         <player>Charlie</player>
@@ -204,7 +204,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1574825606</timestamp>
-        <cost>99</cost>
+        <cost>-99</cost>
     </lootentry>
     <lootentry>
         <player>Drude</player>
@@ -213,7 +213,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1574824724</timestamp>
-        <cost>25</cost>
+        <cost>-25</cost>
     </lootentry>
     <lootentry>
         <player>Elanta</player>
@@ -222,7 +222,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1574824619</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Tot</player>
@@ -231,7 +231,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574823962</timestamp>
-        <cost>254</cost>
+        <cost>-254</cost>
     </lootentry>
     <lootentry>
         <player>Uglypete</player>
@@ -240,7 +240,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574823885</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Gus</player>
@@ -249,7 +249,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1574823064</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Lousassle</player>
@@ -258,7 +258,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1574822163</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Thewaterboi</player>
@@ -267,7 +267,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1574821821</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Burjah</player>
@@ -276,7 +276,7 @@
         <zone>Molten Core</zone>
         <boss>Baron Geddon</boss>
         <timestamp>1574820918</timestamp>
-        <cost>25</cost>
+        <cost>-25</cost>
     </lootentry>
     <lootentry>
         <player>Schadow</player>
@@ -285,7 +285,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1574820003</timestamp>
-        <cost>30</cost>
+        <cost>-30</cost>
     </lootentry>
     <lootentry>
         <player>Existence</player>
@@ -294,7 +294,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1574819914</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Winemonkey</player>
@@ -303,7 +303,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1574818875</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Slenderjames</player>
@@ -312,7 +312,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1574817952</timestamp>
-        <cost>75</cost>
+        <cost>-75</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -321,7 +321,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1574817485</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>React</player>
@@ -330,7 +330,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1574817410</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Altarboi</player>
@@ -339,7 +339,7 @@
         <zone>Molten Core</zone>
         <boss>Onyxia</boss>
         <timestamp>1574816712</timestamp>
-        <cost>66</cost>
+        <cost>-66</cost>
     </lootentry>
     <lootentry>
         <player>Tot</player>
@@ -348,7 +348,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574385089</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Lousassle</player>
@@ -357,7 +357,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574385038</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Drude</player>
@@ -366,7 +366,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1574223282</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Keybind</player>
@@ -375,7 +375,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1574223222</timestamp>
-        <cost>30</cost>
+        <cost>-30</cost>
     </lootentry>
     <lootentry>
         <player>Ultranumb</player>
@@ -384,7 +384,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574221315</timestamp>
-        <cost>150</cost>
+        <cost>-150</cost>
     </lootentry>
     <lootentry>
         <player>Covalent</player>
@@ -393,7 +393,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574221221</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Dkurt</player>
@@ -402,7 +402,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574221149</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Slenderjames</player>
@@ -411,7 +411,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574220558</timestamp>
-        <cost>150</cost>
+        <cost>-150</cost>
     </lootentry>
     <lootentry>
         <player>Covalent</player>
@@ -420,7 +420,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1574220405</timestamp>
-        <cost>56</cost>
+        <cost>-56</cost>
     </lootentry>
     <lootentry>
         <player>Kj</player>
@@ -429,7 +429,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1574219847</timestamp>
-        <cost>140</cost>
+        <cost>-140</cost>
     </lootentry>
     <lootentry>
         <player>Kj</player>
@@ -438,7 +438,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1574218568</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Captnstabbin</player>
@@ -447,7 +447,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1574218526</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Fauxmage</player>
@@ -456,7 +456,7 @@
         <zone>Molten Core</zone>
         <boss>Baron Geddon</boss>
         <timestamp>1574217821</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Tyrela</player>
@@ -465,7 +465,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1574217129</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Vaalul</player>
@@ -474,7 +474,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1574216536</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Uglypete</player>
@@ -483,7 +483,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1574216244</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Ctrlaltdlete</player>
@@ -492,7 +492,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1574215806</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Lousassle</player>
@@ -501,7 +501,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1574215359</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Gus</player>
@@ -510,7 +510,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1574215029</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>React</player>
@@ -519,7 +519,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1574214393</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -528,7 +528,7 @@
         <zone>Molten Core</zone>
         <boss>Onyxia</boss>
         <timestamp>1574213476</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>React</player>
@@ -537,7 +537,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574212459</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Thewaterboi</player>
@@ -546,7 +546,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574212359</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Captnstabbin</player>
@@ -555,7 +555,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1574212280</timestamp>
-        <cost>70</cost>
+        <cost>-70</cost>
     </lootentry>
     <lootentry>
         <player>Keybind</player>
@@ -564,7 +564,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1573787148</timestamp>
-        <cost>90</cost>
+        <cost>-90</cost>
     </lootentry>
     <lootentry>
         <player>Uglypete</player>
@@ -573,7 +573,7 @@
         <zone>Molten Core</zone>
         <boss>Ragnaros</boss>
         <timestamp>1573787037</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Gus</player>
@@ -582,7 +582,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1573785632</timestamp>
-        <cost>42</cost>
+        <cost>-42</cost>
     </lootentry>
     <lootentry>
         <player>Schadow</player>
@@ -591,7 +591,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573782556</timestamp>
-        <cost>95</cost>
+        <cost>-95</cost>
     </lootentry>
     <lootentry>
         <player>Elanta</player>
@@ -600,7 +600,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573782471</timestamp>
-        <cost>84</cost>
+        <cost>-84</cost>
     </lootentry>
     <lootentry>
         <player>Winemonkey</player>
@@ -609,7 +609,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573782274</timestamp>
-        <cost>70</cost>
+        <cost>-70</cost>
     </lootentry>
     <lootentry>
         <player>Ultranumb</player>
@@ -618,7 +618,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1573616698</timestamp>
-        <cost>25</cost>
+        <cost>-25</cost>
     </lootentry>
     <lootentry>
         <player>Zerazi</player>
@@ -627,7 +627,7 @@
         <zone>Molten Core</zone>
         <boss>Majordomo Executus</boss>
         <timestamp>1573616642</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Schadow</player>
@@ -636,7 +636,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1573616174</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -645,7 +645,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1573615731</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Altarboi</player>
@@ -654,7 +654,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1573615285</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Covalent</player>
@@ -663,7 +663,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1573615205</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Drude</player>
@@ -672,7 +672,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1573613726</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Afloc</player>
@@ -681,7 +681,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1573613649</timestamp>
-        <cost>41</cost>
+        <cost>-41</cost>
     </lootentry>
     <lootentry>
         <player>Elanta</player>
@@ -690,7 +690,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1573610737</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Kiryokuu</player>
@@ -699,7 +699,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1573610638</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Kiryokuu</player>
@@ -708,7 +708,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573609741</timestamp>
-        <cost>30</cost>
+        <cost>-30</cost>
     </lootentry>
     <lootentry>
         <player>Winemonkey</player>
@@ -717,7 +717,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573609685</timestamp>
-        <cost>30</cost>
+        <cost>-30</cost>
     </lootentry>
     <lootentry>
         <player>Winemonkey</player>
@@ -726,7 +726,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573609626</timestamp>
-        <cost>25</cost>
+        <cost>-25</cost>
     </lootentry>
     <lootentry>
         <player>Covalent</player>
@@ -735,7 +735,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573609509</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Kiryokuu</player>
@@ -744,7 +744,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573609441</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Charlie</player>
@@ -753,7 +753,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1573608401</timestamp>
-        <cost>80</cost>
+        <cost>-80</cost>
     </lootentry>
     <lootentry>
         <player>Slenderjames</player>
@@ -762,7 +762,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1573607880</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Tosek</player>
@@ -771,7 +771,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1573181743</timestamp>
-        <cost>225</cost>
+        <cost>-225</cost>
     </lootentry>
     <lootentry>
         <player>Fadda</player>
@@ -780,7 +780,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1573181661</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -789,7 +789,7 @@
         <zone>Molten Core</zone>
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1573181560</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Valuuan</player>
@@ -798,7 +798,7 @@
         <zone>Molten Core</zone>
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1573180210</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Drude</player>
@@ -807,7 +807,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573175906</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Soblazed</player>
@@ -816,7 +816,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573175813</timestamp>
-        <cost>61</cost>
+        <cost>-61</cost>
     </lootentry>
     <lootentry>
         <player>Zerazi</player>
@@ -825,7 +825,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573175734</timestamp>
-        <cost>100</cost>
+        <cost>-100</cost>
     </lootentry>
     <lootentry>
         <player>Zerazi</player>
@@ -834,7 +834,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1573012447</timestamp>
-        <cost>80</cost>
+        <cost>-80</cost>
     </lootentry>
     <lootentry>
         <player>Fauxmage</player>
@@ -843,7 +843,7 @@
         <zone>Molten Core</zone>
         <boss>Shazzrah</boss>
         <timestamp>1573012383</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Mawta</player>
@@ -852,7 +852,7 @@
         <zone>Molten Core</zone>
         <boss>Baron Geddon</boss>
         <timestamp>1573011353</timestamp>
-        <cost>45</cost>
+        <cost>-45</cost>
     </lootentry>
     <lootentry>
         <player>Thewaterboi</player>
@@ -861,7 +861,7 @@
         <zone>Molten Core</zone>
         <boss>Baron Geddon</boss>
         <timestamp>1573010878</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Fizlr</player>
@@ -870,7 +870,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1573010087</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Gus</player>
@@ -879,7 +879,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1573009813</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
     <lootentry>
         <player>Burjah</player>
@@ -888,7 +888,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1573009763</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Afloc</player>
@@ -897,7 +897,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573008912</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Altarboi</player>
@@ -906,7 +906,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1573008519</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Drude</player>
@@ -915,7 +915,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1573008085</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Schadow</player>
@@ -924,7 +924,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1573007599</timestamp>
-        <cost>61</cost>
+        <cost>-61</cost>
     </lootentry>
     <lootentry>
         <player>Captnstabbin</player>
@@ -933,7 +933,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1573007548</timestamp>
-        <cost>100</cost>
+        <cost>-100</cost>
     </lootentry>
     <lootentry>
         <player>Burjah</player>
@@ -942,7 +942,7 @@
         <zone>Molten Core</zone>
         <boss>Magmadar</boss>
         <timestamp>1573007488</timestamp>
-        <cost>50</cost>
+        <cost>-50</cost>
     </lootentry>
     <lootentry>
         <player>Burjah</player>
@@ -951,7 +951,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1573007045</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Afloc</player>
@@ -960,7 +960,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1573006982</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Fadda</player>
@@ -969,7 +969,7 @@
         <zone>Molten Core</zone>
         <boss>Onyxia</boss>
         <timestamp>1573006231</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Kj</player>
@@ -978,7 +978,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573004700</timestamp>
-        <cost>120</cost>
+        <cost>-120</cost>
     </lootentry>
     <lootentry>
         <player>Drlol</player>
@@ -987,7 +987,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1573004511</timestamp>
-        <cost>100</cost>
+        <cost>-100</cost>
     </lootentry>
     <lootentry>
         <player>Rosey</player>
@@ -996,7 +996,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1572580598</timestamp>
-        <cost>70</cost>
+        <cost>-70</cost>
     </lootentry>
     <lootentry>
         <player>Mawta</player>
@@ -1005,7 +1005,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1572580441</timestamp>
-        <cost>100</cost>
+        <cost>-100</cost>
     </lootentry>
     <lootentry>
         <player>Drblazed</player>
@@ -1014,7 +1014,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1572580356</timestamp>
-        <cost>70</cost>
+        <cost>-70</cost>
     </lootentry>
     <lootentry>
         <player>Kelustern</player>
@@ -1023,7 +1023,7 @@
         <zone>Molten Core</zone>
         <boss>Garr</boss>
         <timestamp>1571799627</timestamp>
-        <cost>55</cost>
+        <cost>-55</cost>
     </lootentry>
     <lootentry>
         <player>Thewaterboi</player>
@@ -1032,7 +1032,7 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1571798305</timestamp>
-        <cost>40</cost>
+        <cost>-40</cost>
     </lootentry>
     <lootentry>
         <player>Thewaterboi</player>
@@ -1041,6 +1041,6 @@
         <zone>Molten Core</zone>
         <boss>Gehennas</boss>
         <timestamp>1571797635</timestamp>
-        <cost>60</cost>
+        <cost>-60</cost>
     </lootentry>
 </loothistory>
