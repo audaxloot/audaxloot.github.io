@@ -1,5 +1,140 @@
 <loothistory>
     <lootentry>
+        <player>Dkurt</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1576037409</timestamp>
+        <cost>-55</cost>
+    </lootentry>
+    <lootentry>
+        <player>React</player>
+        <itemname>Mana Igniting Cord</itemname>
+        <itemnumber>19136</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1576037326</timestamp>
+        <cost>-70</cost>
+    </lootentry>
+    <lootentry>
+        <player>Julesonwar</player>
+        <itemname>Manastorm Leggings</itemname>
+        <itemnumber>18872</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1576036750</timestamp>
+        <cost>-25</cost>
+    </lootentry>
+    <lootentry>
+        <player>Applejakx</player>
+        <itemname>Boots of Prophecy</itemname>
+        <itemnumber>16811</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1576035501</timestamp>
+        <cost>-40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Lakookaracha</player>
+        <itemname>Arcanist Gloves</itemname>
+        <itemnumber>16801</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1576035423</timestamp>
+        <cost>-40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kj</player>
+        <itemname>Giantstalker's Belt</itemname>
+        <itemnumber>16851</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1576033947</timestamp>
+        <cost>-120</cost>
+    </lootentry>
+    <lootentry>
+        <player>Julesonwar</player>
+        <itemname>Talisman of Ephemeral Power</itemname>
+        <itemnumber>18820</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1576033828</timestamp>
+        <cost>-175</cost>
+    </lootentry>
+    <lootentry>
+        <player>Tyrinn</player>
+        <itemname>Gutgore Ripper</itemname>
+        <itemnumber>17071</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1576033670</timestamp>
+        <cost>-60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Burjah</player>
+        <itemname>Helm of the Lifegiver</itemname>
+        <itemnumber>18870</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1576032725</timestamp>
+        <cost>-55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Burjah</player>
+        <itemname>Earthfury Belt</itemname>
+        <itemnumber>16838</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1576032151</timestamp>
+        <cost>-40</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fauxmage</player>
+        <itemname>Felheart Pants</itemname>
+        <itemnumber>16810</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1576031769</timestamp>
+        <cost>-50</cost>
+    </lootentry>
+    <lootentry>
+        <player>Existence</player>
+        <itemname>Arcanist Bindings</itemname>
+        <itemnumber>16799</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1576030480</timestamp>
+        <cost>-45</cost>
+    </lootentry>
+    <lootentry>
+        <player>Airaser</player>
+        <itemname>Helm of Wrath</itemname>
+        <itemnumber>16963</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1576027872</timestamp>
+        <cost>-88</cost>
+    </lootentry>
+    <lootentry>
+        <player>Valuuan</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1576027735</timestamp>
+        <cost>-66</cost>
+    </lootentry>
+    <lootentry>
+        <player>Applejakx</player>
+        <itemname>Halo of Transcendence</itemname>
+        <itemnumber>16921</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1576027649</timestamp>
+        <cost>-55</cost>
+    </lootentry>
+    <lootentry>
         <player>Zerazi</player>
         <itemname>Dragonstalker's Legguards</itemname>
         <itemnumber>16938</itemnumber>
