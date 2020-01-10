@@ -1,5 +1,23 @@
 <loothistory>
     <lootentry>
+        <player>Afloc</player>
+        <itemname>Nemesis Skullcap</itemname>
+        <itemnumber>16929</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1578619675</timestamp>
+        <cost>-101</cost>
+    </lootentry>
+    <lootentry>
+        <player>Xellows</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1578619532</timestamp>
+        <cost>-50</cost>
+    </lootentry>
+    <lootentry>
         <player>Covalent</player>
         <itemname>Dragon's Blood Cape</itemname>
         <itemnumber>17107</itemnumber>
@@ -1780,23 +1798,5 @@
         <boss>Magmadar</boss>
         <timestamp>1573007548</timestamp>
         <cost>-100</cost>
-    </lootentry>
-    <lootentry>
-        <player>Burjah</player>
-        <itemname>Earthfury Legguards</itemname>
-        <itemnumber>16843</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1573007488</timestamp>
-        <cost>-50</cost>
-    </lootentry>
-    <lootentry>
-        <player>Burjah</player>
-        <itemname>Earthfury Boots</itemname>
-        <itemnumber>16837</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Lucifron</boss>
-        <timestamp>1573007045</timestamp>
-        <cost>-40</cost>
     </lootentry>
 </loothistory>

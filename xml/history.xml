@@ -1,5 +1,17 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Afloc,Airaser,Applejakx,Burjah,Captnstabbin,Charlie,Covalent,Drlol,Drude,Existence,Gus,Handarlo,Hermioney,Kj,Klj,Lakookaracha,Looloo,Pleasantree,Rosey,Slothmaster,Uglypete,Ultranumb,Vaalul,Valuuan,Xellows,Xib,</playerstring>
+        <dkp>5</dkp>
+        <timestamp>1578619414</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Afloc,Airaser,Applejakx,Burjah,Captnstabbin,Charlie,Covalent,Drlol,Drude,Existence,Gus,Handarlo,Hermioney,Kj,Klj,Lakookaracha,Looloo,Pleasantree,Rosey,Slothmaster,Uglypete,Ultranumb,Valuuan,Xellows,Xib,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1578618071</timestamp>
+        <reason>On Time Bonus</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Kholl,</playerstring>
         <dkp>15</dkp>
         <timestamp>1578456838</timestamp>
@@ -1186,17 +1198,5 @@
         <dkp>5</dkp>
         <timestamp>1573012344</timestamp>
         <reason>Molten Core: Shazzrah</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Nalawatts,</playerstring>
-        <dkp>-50</dkp>
-        <timestamp>1573010862</timestamp>
-        <reason>Other - Earthfury Shoulders</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Afloc,Altarboi,Burjah,Captnstabbin,Charlie,Drlol,Drude,Elanta,Fadda,Fauxmage,Fizlr,Gus,Jardy,Keybind,Kj,Mawta,Pleasantree,React,Rosey,Schadow,Slenderjames,Soblazed,Thewaterboi,Tosek,Tot,Ultranumb,Valuuan,Zerazi,Airaser,Nalawatts,Robispro,Julesonwar,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1573010836</timestamp>
-        <reason>Molten Core: Baron Geddon</reason>
     </historyentry>
 </dkphistory>
